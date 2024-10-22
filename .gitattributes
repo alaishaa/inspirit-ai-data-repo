@@ -1,1 +1,2 @@
 array.npy filter=lfs diff=lfs merge=lfs -text
+*array.npy filter=lfs diff=lfs merge=lfs -text
